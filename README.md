@@ -10,3 +10,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex001.c)
 
+#### 2- Faça um programa que receba do usuário um arquivo texto e mostre na tela quantas linhas esse arquivo possui.
+
+[Resposta](./ExerciciosResolvidos/ex002.c)
+
