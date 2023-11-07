@@ -14,3 +14,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex002.c)
 
+#### 3- Faça um programa que receba do usuário um arquivo texto e mostre na tela quantas letras são vogais.
+
+[Resposta](./ExerciciosResolvidos/ex003.c)
+
