@@ -22,3 +22,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex004.c)
 
+#### 5- Faça um programa que receba do usuário um arquivo texto e um caracter. Mostre na tela quantas vezes aquele caractere ocorre dentro do arquivo.
+
+[Resposta](./ExerciciosResolvidos/ex005.c)
+
