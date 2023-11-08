@@ -18,3 +18,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex003.c)
 
+#### 4- Faça um programa que receba do usuário um arquivo texto e mostre na tela quantas letras são vogais e quantas são consoantes.
+
+[Resposta](./ExerciciosResolvidos/ex004.c)
+
