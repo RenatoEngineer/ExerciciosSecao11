@@ -72,5 +72,5 @@ int main(){
 	return 0;
 }
 
-/*Certifique-se de criar o arquivos de texto com conteudo, no diretorio onde o programa esta sendo executado*/
+/*Certifique-se de criar o arquivo de texto com conteudo, no diretorio onde o programa esta sendo executado*/
 
