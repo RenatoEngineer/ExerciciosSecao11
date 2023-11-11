@@ -46,3 +46,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex010.c)
 
+#### 11- Faça um programa no qual o usuário informa o nome do arquivo e uma palavra, e retorne o número de vezes que aquela palavra aparece no arquivo.
+
+[Resposta](./ExerciciosResolvidos/ex011.c)
+
