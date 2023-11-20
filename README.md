@@ -118,3 +118,16 @@
 
 [Resposta](./ExerciciosResolvidos/ex024.c)
 
+#### 25- Faça um programa gerenciar uma agenda de contatos. Para cada contato armazene o nome, o telefone e o aniversário (dia e mês). O programa deve permitir
+<p></p>
+<p><strong>(a) inserir contato</strong></p>
+<p><strong>(b) remover contato</strong></p>
+<p><strong>(c) pesquisar um contato pelo nome</strong></p>
+<p><strong>(d) listar todos os contatos</strong></p>
+<p><strong>(e) listar os contatos cujo nome inicia com uma dada letra</strong></p>
+<p><strong>(f) imprimir os aniversariantes do mês.</strong></p>
+<p></p>
+<p><strong>Sempre que o programa for encerrado, os contatos devem ser armazenados em um arquivo binário. Quando o programa iniciar, os contatos devem ser inicializados com os dados contidos neste arquivo binário.</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex025.c)
+
