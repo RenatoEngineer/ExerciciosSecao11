@@ -131,3 +131,18 @@
 
 [Resposta](./ExerciciosResolvidos/ex025.c)
 
+#### 26- Crie um programa que declare uma estrutura para o cadastro de alunos.
+<p></p>
+<p><strong>(a) Deverão ser armazenados, para cada aluno: matrícula, sobrenome (apenas um), e ano de nascimento.</strong></p>
+<p><strong>(b) Ao início do programa, o usuário deverá informar o número de alunos que serão armazenados</strong></p>
+<p><strong>(c) O programa deverá alocar dinamicamente a quantidade necessária de memória para armazenar os registros dos alunos</strong></p>
+<p><strong>(d) O programa deverá pedir ao usuário que entre com as informações dos alunos</strong></p>
+<p><strong>(e) Em seguida, essas informações deverão ser gravadas em um arquivo</strong></p>
+<p><strong>(f) Ao final, mostrar os dados armazenados e liberar a memória alocada</strong></p>
+<p></p>
+<p><strong>Ao iniciar o programa, forneça ao usuário uma opção para carregar os registros do arquivo para a memória do computador alocando dinamicamente a quantidade de memória necessária.</strong></p>
+<p></p>
+<p><strong>Dica: para que o usuário possa entrar com novos dados, além dos que foram obtidos a partir do arquivo, use a função realloc() para realocar a quantidade de memória usada.</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex026.c)
+
