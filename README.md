@@ -146,3 +146,17 @@
 
 [Resposta](./ExerciciosResolvidos/ex026.c)
 
+#### 27- Faça um programa para gerenciar as notas dos alunos de uma turma salva em um arquivo. O programa deverá ter um menu contendo as seguintes opções:
+<p></p>
+<p><strong>(a) Definir informações da turma;</strong></p>
+<p><strong>(b) Inserir aluno e notas;</strong></p>
+<p><strong>(c) Exibir alunos e médias;</strong></p>
+<p><strong>(d) Exibir alunos aprovados;</strong></p>
+<p><strong>(e) Exibir alunos reprovados;</strong></p>
+<p><strong>(f) Salvar dados em Disco;</strong></p>
+<p><strong>(g) Sair do programa (fim).</strong></p>
+<p></p>
+<p><strong>Faça a rotina que gerencia o menu dentro do main, e para cada uma das opções deste menu, crie uma função específica.</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex027.c)
+
