@@ -160,3 +160,17 @@
 
 [Resposta](./ExerciciosResolvidos/ex027.c)
 
+#### 28- Faça um programa que recebe como entrada o nome de um arquivo de entrada e o nome de um arquivo de saída. Cada linha do arquivo de entrada possui colunas de tamanho de 30 caracteres. No arquivo de saída deverá ser escrito o arquivo de entrada de forma inversa. Veja um exemplo:
+<p></p>
+<p><strong>Arquivo de entrada:</strong></p>
+<p><strong>Hoje é dia de prova de AP</strong></p>
+<p><strong>A prova está muito fácil</strong></p>
+<p><strong>Vou tirar uma boa nota</strong></p>
+<p></p>
+<p><strong>Arquivo de saída:</strong></p>
+<p><strong>Aton aob amu rarit uov</strong></p>
+<p><strong>Licáf otium átse avorp A</strong></p>
+<p><strong>PA ed avorp ed aid é ejoH</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex028.c)
+
