@@ -174,3 +174,17 @@
 
 [Resposta](./ExerciciosResolvidos/ex028.c)
 
+#### 29- Codifique um programa que manipule um arquivo contendo registros descritos pelos seguintes campos: código_vendedor, nome_vendedor, valor_da_venda e mês.A manipulação do arquivo em questão é feita através da execução das operações disponibilizadas pelo seguinte menu:
+<p></p>
+<p><strong>• Criar o arquivo de dados;</strong></p>
+<p><strong>• Incluir um determinado registro no arquivo;</strong></p>
+<p><strong>• Excluir um determinado vendedor no arquivo;</strong></p>
+<p><strong>• Alterar o valor de uma venda no arquivo;</strong></p>
+<p><strong>• Imprimir os registros na saída padrão;</strong></p>
+<p><strong>• Excluir o arquivo de dados;</strong></p>
+<p><strong>• Finalizar o programa.</strong></p>
+<p></p>
+<p><strong>Os registros devem estar ordenados no arquivo, de forma crescente, de acordo com as informações contidas nos campos código_vendedor e mês. Não deve existir mais de um registro no arquivo com mesmos valores nos campos código_vendedor e mês.</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex029.c)
+
