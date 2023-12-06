@@ -167,7 +167,6 @@
 <p><strong>A prova está muito fácil</strong></p>
 <p><strong>Vou tirar uma boa nota</strong></p>
 <p></p>
-<p></p>
 <p><strong>Arquivo de saída:</strong></p>
 <p><strong>Aton aob amu rarit uov</strong></p>
 <p><strong>Licáf otium átse avorp A</strong></p>
