@@ -40,7 +40,7 @@ void retiraProduto(FILE *arquivo, int codigo){
 			//Atualiza a quantidade do produto no arquivo
 			produto.quantidade--;
 
-			fseek(arquivo, -sizeof(struct Produto), SEEK_CUR); //Move o ponteiro de volta para a posicao correta
+			fseek(arquivo, -((long long int)sizeof(struct Produto)), SEEK_CUR); //Move o ponteiro de volta para a posicao correta
 			fwrite(&produto, sizeof(struct Produto), 1, arquivo);
 
 			printf("Produto retirado com sucesso!\n");
